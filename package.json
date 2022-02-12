@@ -1,0 +1,19 @@
+{
+  "name": "FigurichOfficialWebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/losdwind/FigurichOfficialWebsite.git",
+  "author": "Aijie Shu <s524256521@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "firebase": "^9.6.6"
+  }
+}
