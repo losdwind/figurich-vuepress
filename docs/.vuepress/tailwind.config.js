@@ -1,7 +1,18 @@
+
+// tailwind.config.js
+const colors = require('tailwindcss/colors')
+
 module.exports = {
-  content: [],
+  // ...
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        rose: colors.pink,
+      },
+    },
   },
-  plugins: [],
+  plugins: [
+    // ...
+    require('@tailwindcss/forms'),
+  ],
 }
