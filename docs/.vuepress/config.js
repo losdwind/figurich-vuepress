@@ -32,8 +32,10 @@ module.exports = {
     // theme config
     theme: '@vuepress/theme-default',
     themeConfig: {
-        logo: '/images/logo.png',
-        repo: 'losdwind/FigurichOfficialWebsite',
+        logo: '/images/logolight.png',
+        logoDark: '/images/logodark.png',
+        // repo: 'losdwind/FigurichOfficialWebsite',
+        // sidebar: 'auto',
 
         locales: {
             '/': {
@@ -50,12 +52,13 @@ module.exports = {
                     },
                     // NavbarGroup
                     {
-                        text: 'Constellation',
-                        link: '/constellation/',
+                        text: 'Eu-Well Desgin',
+                        // link: '/eu-well-design/',
+                        link:'https://zeroheight.com/1b919a1e6'
                     },
                     {
-                        text: 'Well-mapper',
-                        link: '/well-mapper/',
+                        text: 'Eu-Well Model',
+                        link: '/eu-well-model/',
                         // children: ['/well-mapper/mobile-sensing-system.md']
                     },
                     {
@@ -69,11 +72,16 @@ module.exports = {
                 ],
 
                 sidebar: {
-                    '/constellation/': [
+                    '/eu-well-model/': [
                         {
-                            text: 'Constellation',
-                            children: ['/constellation/design-system.md', '/constellation/fengshui.md'],
+                            text: 'Mobile Sensing',
+                            children: ['/eu-well-model/mobile-sensing/mobile-sensing-system.md'],
+                        },
+                        {
+                            text: 'Positive Psychology',
+                            children: ['/eu-well-model/positive-psychology/wellbeing-model.md'],
                         }
+
                     ]
                 }
 
@@ -120,12 +128,14 @@ module.exports = {
                     },
                     // NavbarGroup
                     {
-                        text: '星宿',
-                        link: '/zh/constellation/'
+                        text: 'Eu-Well 设计系统',
+                        // link: '/zh/eu-well-design/'
+                        link:'https://zeroheight.com/1b919a1e6'
+
                     },
                     {
-                        text: '幸福之心',
-                        link: '/zh/well-mapper/'
+                        text: 'Eu-Well 模型',
+                        link: '/zh/eu-well-model/'
                     },
                     {
                         text: '关于',
