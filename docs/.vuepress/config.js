@@ -143,6 +143,20 @@ module.exports = {
                     },
                     // 字符串 - 页面文件路径
                 ],
+
+                sidebar: {
+                    '/zh/eu-well-model/': [
+                        {
+                            text: '移动感知',
+                            children: ['/zh/eu-well-model/mobile-sensing/mobile-sensing-system.md'],
+                        },
+                        {
+                            text: '积极心理学',
+                            children: ['/zh/eu-well-model/positive-psychology/wellbeing-model.md'],
+                        }
+
+                    ],
+                }
             },
 
 
