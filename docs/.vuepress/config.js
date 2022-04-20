@@ -18,7 +18,7 @@ module.exports = {
 
             lang: 'en-US',
             title: 'Figurich',
-            description: 'About Positive Psychology and Mobile Sensing',
+            description: 'About Computational Wellbeing, Positive Psychology and Mobile Sensing',
         },
         '/zh/': {
             lang: 'zh-CN',

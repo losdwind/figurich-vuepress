@@ -13,10 +13,10 @@ actions:
 
 features:
   - title: Branchl
-    details: A cross-platform note-taking app inspired by Github. In Branchl, notes are categorized as moments, todos, persons and shall contribute to a specific branch, i.e. life goal. So, go find your main branch and create persistent eudaimonic wellbeing.
+    details: A truely engaging computational wellbeing research App serving cross-platform note-taking. Notes in Branchl shall always contribute to a specific branch, i.e. your life goal.
   - title: Eu-Well Model
-    details: The mathematical model and systematic thinking behind the Branchl app. It's a feasible combination of Positive Psychology and Mobile Sensing Techniques.
+    details: The systematic thinking and modelling behind the Branchl app involving Computational Social Science, Positive Psychology and Mobile Sensing Techniques.
   - title: Eu-Well Design
-    details: A design system reflects some thoughts on promoting eudaimonic wellbeing using colors, fonts, layouts, and micro-interactions. But it's not just about graphic design.
+    details: A cross-platform design system reflects some thoughts on nudging eudaimonic wellbeing using colors, fonts, layouts, and micro-interactions.
 
 ---
