@@ -54,7 +54,7 @@ module.exports = {
                     {
                         text: 'Eu-Well Desgin',
                         // link: '/eu-well-design/',
-                        link:'https://zeroheight.com/1b919a1e6'
+                        link:'https://zeroheight.com/0ae9f8435'
                     },
                     {
                         text: 'Eu-Well Model',
@@ -130,7 +130,7 @@ module.exports = {
                     {
                         text: 'Eu-Well 设计系统',
                         // link: '/zh/eu-well-design/'
-                        link:'https://zeroheight.com/1b919a1e6'
+                        link:'https://zeroheight.com/0ae9f8435'
 
                     },
                     {
