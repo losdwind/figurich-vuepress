@@ -34,7 +34,7 @@ module.exports = {
     themeConfig: {
         logo: '/images/logolight.png',
         logoDark: '/images/logodark.png',
-        // repo: 'losdwind/FigurichOfficialWebsite',
+        repo: 'losdwind/figurich-vuepress',
         // sidebar: 'auto',
 
         locales: {
